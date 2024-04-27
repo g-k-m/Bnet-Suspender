@@ -7,4 +7,4 @@ Upon right clicking of the icon it resumes all Agent.exe and Battle.net.exe proc
 Only works if bnet is installed in the default location "C:\Program Files (x86)\Battle.net\Battle.net.exe"  
 
 Upsides: prevents cpu drain in the background without having to exit bnet (on my cpu about 0.5%)  
-Downsides: no notifications when someone comes online, goes offline, messages you etc.  
+Downsides: while suspended there are no notifications when someone comes online, goes offline, messages you etc.  
